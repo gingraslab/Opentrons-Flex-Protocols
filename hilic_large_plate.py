@@ -18,10 +18,7 @@ protien_dilution_data = {
     16: 2,
 }
 
-# TODO: Get protein dilution data from spread sheet
-# TODO: Add buffer right after aspirating for digestion buffer and wash buffer steps
 
-#TODO: protein input ug as param, mM for dtt and iaa conc
 from opentrons import protocol_api
 import math
 import urllib.request
